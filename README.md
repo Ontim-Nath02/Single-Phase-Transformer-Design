@@ -31,7 +31,7 @@ The transformer was evaluated through open-circuit and short-circuit tests.
 - **Reported efficiency:** Approximately 80%
 
 ## Project Report
-[View the IEEE-Format Project Report](IEEE_Transformer_Report.pdf)
+[View the IEEE-Format Project Report](IEEE_Transformer-Report.pdf)
 
 # Tools and Practical Skills
 - Electrical circuit analysis
