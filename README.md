@@ -46,5 +46,3 @@ Ontim Nath
 Department of Electrical and Electronic Engineering  
 East Delta University, Chittagong, Bangladesh
 
-## Note
-This repository documents an academic engineering project. The reported specifications and experimental results are based on the project report.
